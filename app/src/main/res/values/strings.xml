@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Skriv inn fagkode her</string>
+    <string name="button_send">Dette er en knapp</string>
+</resources>
